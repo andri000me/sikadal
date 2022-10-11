@@ -2,7 +2,7 @@
 $host = "localhost";
 $username = "root";
 $password = "";
-$db = "tester";
+$db = "sikadal";
 $mysqli = new mysqli($host,$username,$password, $db) or die('koneksi error');
 
 ?>
